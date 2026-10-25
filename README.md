@@ -64,3 +64,4 @@ Set `DEBUG_MODE` to `true` in the Constants section of `VortexFramework` to log 
 ## License
 
 The framework is open source and can be used without listing credits. The one exception: do not distribute it under your own name.
+The full license is [here](/LICENSE)
